@@ -1,0 +1,25 @@
+#mybox{
+    background-color: red;
+    width: 600px;
+    height: 600px;
+    font-size: 4rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 200px;
+    max-width: 800px;
+    
+}
+#btn{
+    font-size: 3em;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}

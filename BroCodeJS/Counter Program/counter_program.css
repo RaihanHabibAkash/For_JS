@@ -1,0 +1,27 @@
+label{
+    display: block;
+    text-align: center;
+    font-size: 14em;
+    font-family: Helvetica, sans-serif;
+}
+
+div{
+    text-align: center;
+    transition: background-color 2s;
+}
+div:active{
+    background-color: gray;
+    opacity: 0.4;
+}
+.btns{
+    padding: 10px 20px;
+    font-size: 1.3em;
+    color: yellow;
+    background-color: red;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 1s ease-out;
+}
+.btns:hover{
+    background-color: rgb(78, 6, 6);
+}

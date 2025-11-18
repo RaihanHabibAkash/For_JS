@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+#emj{
+    background-color: lightskyblue;
+    width: 200px;
+    height: 200px;
+    font-size: 7.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-radius: 40px;
+}
